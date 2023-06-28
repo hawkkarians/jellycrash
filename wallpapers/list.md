@@ -1,6 +1,5 @@
 # Some wallpapers :3
 
-![building](https://github.com/hawkkarians/jellycrash/assets/134002897/5ecae895-0b35-4d8f-9bce-2ecbe05c4d46)
 ![colors](https://github.com/hawkkarians/jellycrash/assets/134002897/00cfccb7-e12a-409c-8f06-8b3bed0895da)
 ![jelly1](https://github.com/hawkkarians/jellycrash/assets/134002897/fb995168-af65-4efa-b845-c54cf3431fbb)
 ![jelly2](https://github.com/hawkkarians/jellycrash/assets/134002897/b927697c-c173-4585-81af-80b9e7520034)
