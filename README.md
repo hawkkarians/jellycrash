@@ -1,5 +1,5 @@
 # 🪼 jellyfetch
-> Minimal neofetch with hearts
+> Cute neofetch with hearts
 
 ![jellyfetch](https://github.com/hawkkarians/jellyfetch/assets/134002897/a1c34a9f-cca8-486a-b994-8202ab813d5c)
 
